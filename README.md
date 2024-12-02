@@ -1,5 +1,5 @@
 # DevOps-Tooling
-I basically ran a super linter Github actions workflow.
+I basically ran a super linter GitHub actions workflow.
 I created my own file and create my own workflow in YAML format.
 The workflow functions is as follows:
   1. Sets up a job
